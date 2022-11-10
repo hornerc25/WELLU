@@ -1,0 +1,38 @@
+body{
+    font-family: 'Red Hat Display', sans-serif; font-weight: 400;
+    font-size: 2rem;
+    margin: 0;
+}
+
+.container-fluid {
+    position: relative;
+    margin: 0 auto; 
+  }
+  
+  .container-fluid .content {
+    position: absolute; /* Position the background text */
+    color: #f1f1f1; /* Grey text */
+    width: 100%; /* Full width */
+    
+  }
+h1 {
+    font-family: 'Red Hat Display', sans-serif; font-weight: 400;
+    font-size:3em;
+    margin: 0;
+}
+p{
+    font-family: 'Open Sans', sans-serif; font-weight: 300;
+    font-size: 1.5rem;
+}
+navbar{
+    font-size:1rem;
+}
+.img-fluid{
+    padding: 0;
+    margin: 0;
+}
+footer{
+    background-color: #EBF2FA;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1rem;
+}
