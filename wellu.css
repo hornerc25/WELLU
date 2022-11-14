@@ -35,4 +35,17 @@ footer{
     background-color: #EBF2FA;
     font-family:'Courier New', Courier, monospace;
     font-size: 1rem;
+   
+}
+#topSection {
+    padding-right: 0%;
+    padding-left: 0%;
+}
+#buttonGroup{
+    margin-left: 0%;
+    margin-right: 0%;
+}
+#middleSection{
+    margin-top: 0%;
+    padding-top: 0%;
 }
