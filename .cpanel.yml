@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 ---
 deployment:
   tasks:
     - export DEPLOYPATH=/home/hornerc25/public_html/
     - /bin/cp -R * $DEPLOYPATH
     
+=======
+
+>>>>>>> 18eff01e981b8839ab4f1b389a34cac24fe6557c
