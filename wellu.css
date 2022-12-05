@@ -2,6 +2,7 @@ body{
     font-family: 'Red Hat Display', sans-serif; font-weight: 400;
     font-size: 2rem;
     margin: 0;
+   
 }
 
 .container-fluid {
@@ -24,7 +25,7 @@ p{
     font-family: 'Open Sans', sans-serif; font-weight: 300;
     font-size: 1.5rem;
 }
-navbar{
+nav{
     font-size:1rem;
 }
 .img-fluid{
@@ -33,10 +34,16 @@ navbar{
 }
 footer{
     background-color: #EBF2FA;
-    font-family:'Courier New', Courier, monospace;
-    font-size: 1rem;
+   padding-bottom: 0%;
+   
    
 }
+#FooterP{
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: small;
+    margin-bottom: 0%;  
+}
+
 #topSection {
     padding-right: 0%;
     padding-left: 0%;
@@ -44,8 +51,16 @@ footer{
 #buttonGroup{
     margin-left: 0%;
     margin-right: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
 }
 #middleSection{
-    margin-top: 0%;
+    margin-top: 2rem;;
     padding-top: 0%;
+}
+#buttonColor{
+    color-scheme: pale;
+}
+#Why{
+    font-size:medium;
 }
